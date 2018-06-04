@@ -1,3 +1,3 @@
 # EasyGame
 
-test
+test ajout new feature
